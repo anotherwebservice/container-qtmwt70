@@ -12,6 +12,11 @@ def index():
     return render_template("index.html")
 
 
+@app.route("/about")
+def about():
+    return "This is the about page"
+
+
 @app.route("/health")
 def health():
     log.info("Checking /health")

@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Sep 11 2022)
+
+#### 🐛 Bug Fix
+
+- Fix #1 added about page route [#2](https://github.com/anotherwebservice/container-qtmwt70/pull/2) ([@anotherwebservice](https://github.com/anotherwebservice))
+
+#### Authors: 1
+
+- [@anotherwebservice](https://github.com/anotherwebservice)
+
+---
+
 # v0.0.1 (Sun Sep 11 2022)
 
 :tada: This release contains work from new contributors! :tada:
